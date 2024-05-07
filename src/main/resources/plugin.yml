@@ -1,0 +1,4 @@
+name: NexusWar
+version: '${project.version}'
+main: com.kris.nexuswar.NexusWar
+api-version: '1.19'
